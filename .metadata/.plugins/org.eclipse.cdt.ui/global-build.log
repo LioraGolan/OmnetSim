@@ -1,0 +1,324 @@
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-debug all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-debug for project project ****
+
+make MODE=debug CONFIGNAME=gcc-debug all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+Medium.cc: In member function 'void Medium::FFVSA()':
+Medium.cc:179:13: warning: variable 'S' set but not used [-Wunused-but-set-variable]
+Medium.cc: In member function 'virtual void Medium::handleMessage(cMessage*)':
+Medium.cc:203:13: warning: unused variable 'msg' [-Wunused-variable]
+Medium.cc: At global scope:
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-debug//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Clean-only build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release clean 
+rm -rf out/gcc-release/
+rm -f project project.exe libproject.so libproject.a libproject.dll libproject.dylib
+rm -f ./*_m.cc ./*_m.h
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Clean-only build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release clean 
+rm -rf out/gcc-release/
+rm -f project project.exe libproject.so libproject.a libproject.dll libproject.dylib
+rm -f ./*_m.cc ./*_m.h
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+In file included from Medium.cc:1:0:
+Medium.h:2:20: fatal error: cstdio.h: No such file or directory
+compilation terminated.
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+Medium.cc:214:1: error: 'MsgToSend' does not name a type
+make: *** [out/gcc-release//Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Medium.o Medium.cc
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Node.o Node.cc
+Node.cc: In member function 'virtual void Node::handleMessage(cMessage*)':
+Node.cc:28:14: error: comparison between distinct pointer types 'cMessage*' and 'const char*' lacks a cast [-fpermissive]
+make: *** [out/gcc-release//Node.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=release CONFIGNAME=gcc-release all 
+g++ -c -O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-release//Node.o Node.cc
+Node.cc: In member function 'virtual void Node::handleMessage(cMessage*)':
+Node.cc:28:14: error: comparison between distinct pointer types 'cMessage*' and 'const char*' lacks a cast [-fpermissive]
+make: *** [out/gcc-release//Node.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make all 
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Medium.o Medium.cc
+g++ -c -g -Wall   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include -o out/gcc-debug//Node.o Node.cc
+Node.cc: In member function 'virtual void Node::handleMessage(cMessage*)':
+Node.cc:28:14: warning: comparison with string literal results in unspecified behaviour [-Waddress]
+Node.cc:28:14: error: comparison between distinct pointer types 'cMessage*' and 'const char*' lacks a cast [-fpermissive]
+make: *** [out/gcc-debug//Node.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+****  WARNING: The "gcc-release" Configuration may not build  ****
+****  because it uses the "Cygwin GCC"  ****
+****  tool-chain that is unsupported on this system.  ****
+
+****  Attempting to build...  **** 
+
+make -f Makefile.vc MODE=debug CONFIGNAME=gcc-release all 
+make: Makefile.vc: No such file or directory
+make: *** No rule to make target `Makefile.vc'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=debug CONFIGNAME=gcc-release all 
+Building file: ../Medium.cc
+Invoking: Cygwin C++ Compiler
+g++ -O2 -g -Wall -c -fmessage-length=0 -MMD -MP -MF"Medium.d" -MT"Medium.d" -o "Medium.o" "../Medium.cc"
+In file included from ../Medium.cc:16:0:
+../Medium.h:19:21: fatal error: omnetpp.h: No such file or directory
+compilation terminated.
+make: *** [Medium.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=debug CONFIGNAME=gcc-release all 
+Building file: ../Medium.cc
+Invoking: Cygwin C++ Compiler
+g++ -O2 -g -Wall -c -fmessage-length=0 -MMD -MP -MF"Medium.d" -MT"Medium.d" -o "Medium.o" "../Medium.cc"
+In file included from ../Medium.cc:16:0:
+../Medium.h:19:21: fatal error: omnetpp.h: No such file or directory
+compilation terminated.
+make: *** [Medium.o] Error 1
+
+**** Build Finished ****

@@ -1,0 +1,1 @@
+-O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -Ic:/omnetpp-4.2-src-windows/omnetpp-4.2/include

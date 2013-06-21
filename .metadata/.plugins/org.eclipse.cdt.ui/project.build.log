@@ -1,0 +1,13 @@
+
+**** Build of configuration gcc-release for project project ****
+
+make MODE=debug CONFIGNAME=gcc-release all 
+Building file: ../Medium.cc
+Invoking: Cygwin C++ Compiler
+g++ -O2 -g -Wall -c -fmessage-length=0 -MMD -MP -MF"Medium.d" -MT"Medium.d" -o "Medium.o" "../Medium.cc"
+In file included from ../Medium.cc:16:0:
+../Medium.h:19:21: fatal error: omnetpp.h: No such file or directory
+compilation terminated.
+make: *** [Medium.o] Error 1
+
+**** Build Finished ****

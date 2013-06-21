@@ -1,0 +1,40 @@
+#include <omnetpp.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <cmessage.h>
+
+//using namespace std;
+
+#define NETSIZE 15
+#define NUMOFFLOWS 10
+
+class Medium: public cSimpleModule {
+    private:
+        int AdjacencyMatrix[NETSIZE][NETSIZE];
+        int FlowTable[NUMOFFLOWS][NETSIZE][NETSIZE];
+        int PathVectors[NUMOFFLOWS][NETSIZE];
+        int WeightVector[NETSIZE];
+        int SortedNodes[NETSIZE];
+        int CollisionVector[NETSIZE];
+        int ctr; // should check how to count
+
+    protected:
+        void initialize();
+        //virtual void handleMessage(cMessage *msg);
+        void buildAdjacency();
+        void buildFlow();
+        void buildRandomPaths();
+        void buildWeightVector();
+        void sortNodesByWeight();
+        void Dijkstra();
+        void FFVSA();
+        int multiplyVectors(int a[], int b[]);
+        //void Dijkstra(double *dist, int *previous);
+        void handleMessage(cMessage *msg);
+};
+
+
+
+
+
